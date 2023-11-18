@@ -14,4 +14,4 @@
 
 * move build
 
-* move test
+* move test: To run everything below # [test] 
