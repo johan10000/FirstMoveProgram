@@ -1,4 +1,4 @@
-# LearnMove
+# First Move Program
 
 1. Create a new move program inside the move folder:
 
