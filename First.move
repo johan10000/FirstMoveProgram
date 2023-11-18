@@ -1,4 +1,5 @@
 module 0x42:: SocialNetwork{ // Let us create a module named SocialNetwork which we run from the address 0x42(as we are running locally, we can have any address here)
+    // Add nursery library in Move.toml file to use debug library
     use std::debug; // To import print from the standard library
 
     // keyword: drop: this can be altered (by default, the type in move is non alterable)
